@@ -1,4 +1,4 @@
-# SINNIK
+# Kartik Choudhary
 About Me
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=23A6C5FF&size=50&center=true&vCenter=true&width=600&lines=Hello+there!;+I%27m+Kartik+Choudhary">
