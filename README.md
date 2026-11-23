@@ -7,7 +7,7 @@ About Me
 
 - 🔭 I’m currently working on **Spring Framework**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **System Design n Model training**
 
 - 📫 How to reach me kartik190302@gmail.com
 
