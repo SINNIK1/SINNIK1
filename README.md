@@ -5,7 +5,7 @@ About Me
   &nbsp; <img src="https://media.giphy.com/media/dscTJjpsiVamjIk6nk/giphy.gif" width="50">
 </h1>
 
-- 🔭 I’m currently working on **Spring Framework**
+- 🔭 I’m currently working on **Alogrithms n Mathematics**
 
 - 🌱 I’m currently learning **System Design n Model training**
 
